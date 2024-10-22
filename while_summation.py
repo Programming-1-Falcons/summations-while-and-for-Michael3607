@@ -1,4 +1,4 @@
-#while summation code following directions from Readme
+#while summation code following directions from Readmte
 userInput = int(input())  
 sum = 0  
 loopedTimes = 0  
