@@ -1,6 +1,13 @@
 #while summation code following directions from Readme
-Num = int(input("give a number:")
-baseNum = 1
-while(Num >= baseNum):
-  print(baseNum): print("+")
-  baseNum + 1
+userInput = int(input())  
+sum = 0  
+loopedTimes = 0  
+  
+while loopedTimes < userInput:  
+    loopedTimes += 1  
+    sum += loopedTimes
+  
+print(sum)  
+  
+
+
